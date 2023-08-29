@@ -1,0 +1,10 @@
+:root{
+    --color-primary:#2F89FC;
+    --text-color:#232323
+}
+
+.bg-primary{
+    background-color:var(--color-primary) !important;
+    color:#fff;
+    border: 0.1rem solid var(--color-primary) !important
+}
